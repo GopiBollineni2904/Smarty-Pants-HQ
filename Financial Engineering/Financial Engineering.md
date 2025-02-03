@@ -1,6 +1,6 @@
-> [Mathematics](Mathematics/Mathematics.md)
-> [Finance](Finance/Finance.md)
-> [Data Science](Data%20Science/Data%20Science.md)
+> [Mathematics](../Mathematics/Mathematics.md)
+> [Finance](../Finance/Finance.md)
+> [Data Science](../Data%20Science/Data%20Science.md)
 
 # **Financial Engineering Roadmap**
 ## **📌 PHASE 1: Mathematical Foundations for Quant Finance (Feb – April 2025)**

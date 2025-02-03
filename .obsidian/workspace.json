@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4ecbf13b3b08aebc",
+        "id": "9de8ee2409afafc7",
         "type": "tabs",
         "children": [
           {
-            "id": "cc57617819f27860",
+            "id": "fcc88886115151a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Engineering/Financial Engineering.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Financial Engineering"
+              "title": "New tab"
             }
           }
         ]
@@ -165,19 +161,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "cc57617819f27860",
+  "active": "fcc88886115151a4",
   "lastOpenFiles": [
-    "Financial Engineering/Mathematics/Mathematics.md",
+    "Mathematics/Mathematics.md",
+    "Mathematics/Linear Algebra.md",
     "Financial Engineering/Financial Engineering.md",
-    "Financial Engineering/Mathematics/Linear Algebra.md",
     "Financial Engineering/Mathematics/Linear Algebra – Vectors, Matrices, Eigenvalues, SVD, PCA.md",
-    "Financial Engineering/Data Science/Azure Data Science.md",
-    "Financial Engineering/Data Science/Data Science.md",
-    "Financial Engineering/Finance/Finance.md",
-    "Financial Engineering/Data Science/Introduction.md",
-    "Financial Engineering/Data Science/DS solution.md",
-    "Financial Engineering/Data Science/Design ML solution.md",
-    "Financial Engineering/Data Science/Data Sources and Formats.md",
+    "Data Science/Azure Data Science.md",
+    "Data Science/Data Science.md",
+    "Finance/Finance.md",
+    "Data Science/Introduction.md",
+    "Data Science/DS solution.md",
+    "Data Science/Design ML solution.md",
+    "Data Science/Data Sources and Formats.md",
     "Mathematics.md",
     "Financial Engineering/DS solution.md",
     "Financial Engineering/Design ML solution.md",
@@ -187,10 +183,10 @@
     "Financial Engineering/Mathematics.md",
     "Financial Engineering/Introduction.md",
     "Financial Engineering/Finance.md",
-    "Financial Engineering/Finance",
+    "Finance",
     "Financial Engineering/New folder",
-    "Financial Engineering/Mathematics",
-    "Financial Engineering/Data Science",
+    "Mathematics",
+    "Data Science",
     "Financial Engineering.md",
     "Financial Engineering",
     "New folder",
