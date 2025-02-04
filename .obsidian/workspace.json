@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9de8ee2409afafc7",
+        "id": "186bed9951a0ba56",
         "type": "tabs",
         "children": [
           {
-            "id": "fcc88886115151a4",
+            "id": "84c6141104f74cd6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Linear Algebra/Vectors & Spaces.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vectors & Spaces"
             }
           }
         ]
@@ -161,15 +165,24 @@
       "graph:Open graph view": false
     }
   },
-  "active": "fcc88886115151a4",
+  "active": "84c6141104f74cd6",
   "lastOpenFiles": [
-    "Mathematics/Mathematics.md",
-    "Mathematics/Linear Algebra.md",
-    "Financial Engineering/Financial Engineering.md",
+    "Financial Engineering/Financial Engineering Roadmap 2025.md",
+    "Financial Engineering/Mathematics for Quant Finance Roadmap 2025.md",
+    "Financial Engineering/Data Science for Quant Finance Roadmap 2025.md",
+    "Financial Engineering/Finance for Quant Finance Roadmap 2025.md",
+    "Mathematics/Linear Algebra/Vectors & Spaces.md",
+    "Mathematics/Linear Algebra/Fundamentals of Linear Algebra.md",
+    "Mathematics/Linear Algebra/Linear Algebra.md",
+    "Mathematics/Linear Algebra/Systems of Equations/Systems of Linear Equations.md",
+    "Mathematics/Linear Algebra/Systems of Equations",
+    "Mathematics/Mathematics for Machine Learning and Data Science Specialization/Mathematics for Machine Learning and Data Science Specialization.md",
+    "Mathematics/Mathematics for Machine Learning and Data Science Specialization",
+    "Mathematics/Linear Algebra/Advanced Linear Algebra.md",
+    "Mathematics/Phase 1 - Mathematical Foundations for Quantitative Finance.md",
+    "Mathematics/Linear Algebra",
     "Financial Engineering/Mathematics/Linear Algebra – Vectors, Matrices, Eigenvalues, SVD, PCA.md",
     "Data Science/Azure Data Science.md",
-    "Data Science/Data Science.md",
-    "Finance/Finance.md",
     "Data Science/Introduction.md",
     "Data Science/DS solution.md",
     "Data Science/Design ML solution.md",
@@ -187,14 +200,8 @@
     "Financial Engineering/New folder",
     "Mathematics",
     "Data Science",
-    "Financial Engineering.md",
     "Financial Engineering",
     "New folder",
-    "Azure Data Science.md",
-    "Finance.md",
-    "Data Science.md",
-    "DS solution.md",
-    "Untitled.canvas",
-    "Untitled"
+    "Untitled.canvas"
   ]
 }

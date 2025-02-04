@@ -1,6 +1,6 @@
-> [Mathematics](../Mathematics/Mathematics.md)
-> [Finance](../Finance/Finance.md)
-> [Data Science](../Data%20Science/Data%20Science.md)
+> [Mathematics for Quant Finance Roadmap 2025](Mathematics%20for%20Quant%20Finance%20Roadmap%202025.md)
+> [Finance for Quant Finance Roadmap 2025](Finance%20for%20Quant%20Finance%20Roadmap%202025.md)
+> [Data Science for Quant Finance Roadmap 2025](Data%20Science%20for%20Quant%20Finance%20Roadmap%202025.md)
 
 # **Financial Engineering Roadmap**
 ## **📌 PHASE 1: Mathematical Foundations for Quant Finance (Feb – April 2025)**
@@ -8,6 +8,8 @@
 ### **🎯 Objective:**
 
 Establish a **deep mathematical foundation** necessary for quantitative finance, machine learning, and optimization.
+
+> [Mathematics for Quant Finance Roadmap 2025](Mathematics%20for%20Quant%20Finance%20Roadmap%202025.md)
 
 ### **📚 Core Topics to Master:**
 
@@ -50,6 +52,7 @@ Establish a **deep mathematical foundation** necessary for quantitative finance,
 
 Implement **mathematical finance concepts using Python & R**, and understand **numerical computing techniques** for financial modeling.
 
+> [Data Science for Quant Finance Roadmap 2025](Data%20Science%20for%20Quant%20Finance%20Roadmap%202025.md)
 ### **📚 Core Topics to Master:**
 
 1️⃣ **Monte Carlo Simulations** (Stock Price Forecasting, Risk Management)  
@@ -94,6 +97,7 @@ Implement **mathematical finance concepts using Python & R**, and understand **n
 
 Develop a **deep understanding of ML algorithms** and apply them to **financial data analysis & forecasting**.
 
+> [Data Science for Quant Finance Roadmap 2025](Data%20Science%20for%20Quant%20Finance%20Roadmap%202025.md)
 ### **📚 Core Topics to Master:**
 
 1️⃣ **Supervised Learning:** Regression, Random Forests, XGBoost  
@@ -136,6 +140,8 @@ Develop a **deep understanding of ML algorithms** and apply them to **financial 
 ### **🎯 Objective:**
 
 Apply **financial engineering principles** and develop **quant-driven strategies**.
+
+> [Finance for Quant Finance Roadmap 2025](Finance%20for%20Quant%20Finance%20Roadmap%202025.md)
 
 ### **📚 Core Topics to Master:**
 
